@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;700&family=Poppins:ital,wght@0,500;1,200&display=swap');
+
+
+/* RESET CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a, h5, h2, h6, p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.flex {
+	display: flex;
+}
+
+.head {
+    padding-top: 100px;
+}
+
+.card1 {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.card1 img {
+    width: 300px;
+    border-radius: 20px;
+}
